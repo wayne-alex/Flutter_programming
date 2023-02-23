@@ -1,0 +1,19 @@
+{
+  "name": "flutter_programming",
+  "version": "1.0.0",
+  "description": "Programming a mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayne-alex/Flutter_programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayne-alex/Flutter_programming/issues"
+  },
+  "homepage": "https://github.com/wayne-alex/Flutter_programming#readme"
+}

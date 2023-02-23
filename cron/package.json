@@ -1,0 +1,23 @@
+{
+  "name": "cron-ping",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "cron": "cron-ping.js"
+  },
+  "scripts": {
+    "cron": "cron-ping.js"
+  },
+  "keywords": [],
+  "author": "Dennis Kibet",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "json-format": "^1.0.1",
+    "node-cron": "^3.0.0",
+    "random-words": "^1.1.2",
+    "shelljs": "^0.8.5"
+  }
+}
